@@ -7,6 +7,7 @@
 
 > Cross‑platform attendance monitoring app for **October 6 University – Pharmacy College**. Secure, QR‑based check‑ins with GPS verification, role‑based portals (Admin, Trainee Supervisor, Student), and signed PDF reports with on‑device verification.
 
+> The application wwas created and fully architectured by me, Abdelrahman Habeeb, to serve the Pharmacy College to monitor their training completion. I have NO knowledge of flutter or dart coding and fully assisted with Gemini Pro (Core Coding) and DeepSeek (UI), with no other than my human interaction or assistance. The project fully increased my IT skills as problem solver. This project have been done in only three to four weeks.
 ---
 
 ## Table of Contents
@@ -376,15 +377,22 @@ lib/
 
 ## Screenshots
 
-> Add screenshots/gifs here (Supervisor QR screen, Student scan flow, Admin reports).
+<p>
+  <img src="assets/1.png" alt="1" width="240">
+ <img src="assets/2.png" alt="2" width="240">
+ <img src="assets/4.png" alt="3" width="240">
+ <img src="assets/4.5.png" alt="4" width="240">
+ <img src="assets/5.png" alt="5" width="240">
+ <img src="assets/6.png" alt="6" width="240">
+ <img src="assets/7.png" alt="7" width="240">
+ <img src="assets/8.png" alt="8" width="240">
+ <img src="assets/9.png" alt="9" width="240">
+</p>
+
+
 
 ```
-assets/
-  screenshots/
-    admin_dashboard.png
-    supervisor_qr.png
-    student_scan.png
-    report_sample.png
+
 ```
 
 ---
