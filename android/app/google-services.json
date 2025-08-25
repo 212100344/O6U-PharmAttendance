@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298287723199",
+    "project_id": "o6uattendance",
+    "storage_bucket": "o6uattendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298287723199:android:9f3adae4d2a66705250c0a",
+        "android_client_info": {
+          "package_name": "com.onepexil.o6uattendance.o6u_attendance_pharmacy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABiOUiQq8iCciXlAPBIvRySi-NZRVhYP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

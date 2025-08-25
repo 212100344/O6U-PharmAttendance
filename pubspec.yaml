@@ -1,0 +1,61 @@
+name: attendance_sys
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.1+2
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  permission_handler: ^11.3.1
+  uuid: ^4.5.1
+  pdf: ^3.10.1
+  printing: ^5.14.0
+  google_fonts: ^6.1.0
+  supabase_flutter: ^2.8.3
+  percent_indicator: ^4.2.2
+  mobile_scanner: ^6.0.0
+  geolocator: ^13.0.2
+  geocoding: ^3.0.0
+  camera: ^0.10.0
+  postgrest: ^2.4.1
+  storage_client: ^2.3.0
+  shared_preferences: ^2.1.0
+  firebase_auth: ^5.3.1
+  firebase_core: ^3.6.0
+  fluttertoast: ^8.2.4
+  barcode_scan2: ^4.3.3
+  qr_flutter: ^4.0.0
+  image_picker: ^0.8.5+3
+  intl: ^0.19.0
+  path: ^1.8.3
+  url_launcher: ^6.1.14
+  flutter_foreground_task: ^8.17.0
+  workmanager: ^0.5.1
+  flutter_local_notifications: ^18.0.1
+  sqflite: ^2.3.0
+  cloud_firestore: ^5.6.2
+  dartarabic: ^0.3.1
+  timezone: ^0.9.2
+  rename: ^3.0.2
+
+
+dev_dependencies:
+
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/NotoColorEmoji.ttf
+    - assets/ImageHandler.png
+    - assets/pharmacy.png
+    - assets/Ubuntu-Regular.ttf
+    - assets/Ubuntu-Italic.ttf
+    - assets/Ubuntu-Bold.ttf
+    - assets/Amiri-Bold.ttf
+    - assets/Amiri-Bold.ttf
+    - assets/Amiri-Regular.ttf
