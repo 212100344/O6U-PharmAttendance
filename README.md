@@ -7,7 +7,7 @@
 
 > Cross‑platform attendance monitoring app for **October 6 University – Pharmacy College**. Secure, QR‑based check‑ins with GPS verification, role‑based portals (Admin, Trainee Supervisor, Student), and signed PDF reports with on‑device verification.
 
-> The application wwas created and fully architectured by me, Abdelrahman Habeeb, to serve the Pharmacy College to monitor their training completion. I have NO knowledge of flutter or dart coding and fully assisted with Gemini Pro (Core Coding) and DeepSeek (UI), with no other than my human interaction or assistance. The project fully increased my IT skills as problem solver. This project have been done in only three to four weeks.
+># The application was created and fully architectured by me, Abdelrahman Habeeb, to serve the Pharmacy College to monitor their training completion. I have NO knowledge of flutter or dart coding and fully assisted with Gemini Pro (Core Coding) and DeepSeek (UI), with no other than my human interaction or assistance. The project fully increased my IT skills as problem solver. This project have been done in only three to four weeks.
 ---
 
 ## Table of Contents
